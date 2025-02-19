@@ -17,7 +17,7 @@ public class SoccerEnvController : MonoBehaviour
     }
 
 
-    /// <summary>
+    /// 
     /// Max Academy steps before this platform resets
     /// </summary>
     /// <returns></returns>
@@ -113,6 +113,8 @@ public class SoccerEnvController : MonoBehaviour
         ResetScene();
 
     }
+
+
 
 
     public void ResetScene()
